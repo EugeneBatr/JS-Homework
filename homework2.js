@@ -1,8 +1,8 @@
 ////////////////////////1///////////////////////////
 
-// numArray = [1, 2, 2, 2, 3, 4, 5, 5, 7];
+//const numArray = [1, 2, 2, 2, 3, 4, 5, 5, 7];
 
-// numArray = [1, 1, 2];
+//const numArray = [1, 1, 2];
 
 // const filterUnique = numArray.filter((number, index) => {
 
@@ -19,9 +19,9 @@
 
 /////////////////////////2///////////////////////////
 
-// numArray = [1, 2, 3];
+//const numArray = [1, 2, 3];
 
-// numArray = [1, 1, 2];
+//const numArray = [1, 1, 2];
 
 // const cubizer = numArray.map((number) => {
 //         if (typeof number === 'number') return number ** 3;
@@ -37,9 +37,9 @@
 
 /////////////////////////3///////////////////////////
 
-// // array = ['a', 'b', 'dsd'];
+//const array = ['a', 'b', 'dsd'];
 
-// array = ['hello','hi','JavaScript','efghe']
+//const array = ['hello','hi','JavaScript','efghe']
 
 // const filterLongString = (array, number) => array.filter((string) => {
 //         if (typeof string === 'string') return string.length ===  number;
@@ -56,9 +56,9 @@
 
 /////////////////////////4///////////////////////////
 
-// array = ['a', 1, 'b', 2, 'sqw', [1,2,3]];
+//const array = ['a', 1, 'b', 2, 'sqw', [1,2,3]];
 
-// array = ['Hello', 'World', 'sqw', [1,2,3]];
+//const array = ['Hello', 'World', 'sqw', [1,2,3]];
 
 // const filterOnlyNumbers = array.filter((item) => {
 //         if (typeof item === 'number') return item;
@@ -73,9 +73,9 @@
 
 /////////////////////////5///////////////////////////
 
-// numArray = [1,3,5,2];
+//const numArray = [1,3,5,2];
 
-// numArray = [3,5,2134,65,4456,10]
+//const numArray = [3,5,2134,65,4456,10]
 
 // const findMaxNumber = numArray.reduce((result, number) => {
 //         if (typeof number === 'number' )
